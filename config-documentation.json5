@@ -4,7 +4,7 @@
 	//True if Bounty mobs should glow through walls permanently, else false [default = false]
 	"bountyMobPermanentGlow": false,
 	//Duration in seconds Bounty mobs should glow when they are first found if bountyMobPermanentGlow is false [default = 20]
-	"bountyMobGlowDuration": 20,
+	"bountyMobGlowDuration": 99999990,
 	//Player's Bounty Hunter level increments at this value [default = 10]
 	"playerBountyHunterLevelIntervals": 10,
 	//Bonus health for Player per Bounty Hunter level [default = 2 (one heart)]
